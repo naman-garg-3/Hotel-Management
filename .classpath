@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Naman/Documents/NetBeansProjects/HotellManagement/mysql-connector-java-5.1.49.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Naman/Documents/NetBeansProjects/HotellManagement/mysql-connector-java-5.1.49-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Naman/Desktop/HotelManagement/HotelManagement/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Naman/Desktop/HotelManagement/HotelManagement/joda-time-2.8.2.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
